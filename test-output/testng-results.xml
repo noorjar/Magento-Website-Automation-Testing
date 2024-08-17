@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-17T04:34:41 EET" name="Default suite" finished-at="2024-08-17T04:35:12 EET" duration-ms="31185">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T04:34:41 EET" name="Default test" finished-at="2024-08-17T04:35:12 EET" duration-ms="31185">
+      <class name="lecture5practice.Lecture5Class">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:34:41 EET" name="mySetup" finished-at="2024-08-17T04:34:45 EET" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="createAcoountTest()[pri:1, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:34:45 EET" name="createAcoountTest" finished-at="2024-08-17T04:34:49 EET" duration-ms="4452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAcoountTest -->
+        <test-method signature="LogOutTest()[pri:2, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:34:49 EET" name="LogOutTest" finished-at="2024-08-17T04:34:51 EET" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutTest -->
+        <test-method signature="SignInTest()[pri:3, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:34:51 EET" name="SignInTest" finished-at="2024-08-17T04:34:55 EET" duration-ms="4026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+        <test-method signature="MenSectionTest()[pri:4, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:34:55 EET" name="MenSectionTest" finished-at="2024-08-17T04:35:01 EET" duration-ms="6054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MenSectionTest -->
+        <test-method signature="AddReview()[pri:5, instance:lecture5practice.Lecture5Class@5241cf67]" started-at="2024-08-17T04:35:01 EET" name="AddReview" finished-at="2024-08-17T04:35:12 EET" duration-ms="10998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddReview -->
+      </class> <!-- lecture5practice.Lecture5Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
